@@ -13,4 +13,5 @@ end
 def using_flatten(flat_array)
   flat_array.flatten
 end
-  
+
+def using_
