@@ -7,7 +7,7 @@ def using_insert(list_of_programing_languages, another_language)
 end
 
 def using_uniq(new_array)
-  new_array.uniq(haircut)
+  new_array.uniq
 end
 
   
