@@ -19,5 +19,5 @@ def using_delete(no_offense_steven, string)
 end
 
 def using_delete_at(delete_robot, integer)
-  delete_robot.delete(2)
+  delete_robot.delete_at(2)
 end
