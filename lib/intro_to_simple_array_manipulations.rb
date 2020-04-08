@@ -14,4 +14,6 @@ def using_flatten(flat_array)
   flat_array.flatten
 end
 
-def using_
+def using_delete(no_offense_steven, string)
+  no_offense_steven.delete(string)
+end
