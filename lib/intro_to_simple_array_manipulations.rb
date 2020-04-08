@@ -10,5 +10,7 @@ def using_uniq(new_array)
   new_array.uniq
 end
 
-def using_flatten
+def using_flatten(flat_array)
+  flat_array.flatten
+end
   
